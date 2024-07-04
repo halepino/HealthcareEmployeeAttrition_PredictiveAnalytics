@@ -3,7 +3,7 @@
 ### Author: https://github.com/halepino
 
 ## Overview
-A Power BI dashboard was created to examine relationships between employment variables and attrition (coded as yes 1/no 0). Recursive feature elimination (RFE) was conducted accross a range of N variables until an optimal amount was identified based on logistice regression scores on the test sample of employee data. Three models were then trained and compared for performance including a decision tree classifier, a gradient boosting classifier, and a mulit-layer preceptron (MLP) neural network. Following evaluation using classification reports, accuracy, and confusion matrices, the MLP model was found to have the best performance at 92% accuracy on test data.
+A Power BI dashboard was created to examine relationships between employment variables and attrition (coded as yes 1/no 0). Recursive feature elimination (RFE) was conducted accross a range of N variables until an optimal amount was identified based on logistic regression scores on the test sample of employee data. Three models were then trained and compared for performance including a decision tree classifier, a gradient boosting classifier, and a mulit-layer preceptron (MLP) neural network. Following evaluation using classification reports, accuracy, and confusion matrices, the MLP model was found to have the best performance at 92% accuracy on test data.
 ## Repo Contents  
 Code Files(ipynb)    
 Power BI File (pbix)  
